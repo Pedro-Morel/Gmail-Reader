@@ -1,0 +1,5 @@
+com\gmailreader\GmailReader.class
+com\gmailreader\SSLUtil.class
+com\gmailreader\SSLUtil$1.class
+com\gmailreader\XMLEntity.class
+com\gmailreader\AttachmentSaver.class
